@@ -11,7 +11,6 @@ I obtained my Ph.D. in <a href="http://aco.math.cmu.edu">Algorithms, Combinatori
 at <a href="http://www.cmu.edu">Carnegie Mellon University</a>, where I was advised by <a href="http://www.math.cmu.edu/~af1p">Alan Frieze</a>.
 
 
-## [Ph.D. position available](phdpos.html)
 
 
 
