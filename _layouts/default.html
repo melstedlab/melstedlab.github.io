@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+
+<head>
+   <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+   <title>{{ page.title }}</title>
+   <meta name="author" content="Pall Melsted" />
+
+   <link rel="stylesheet" href="css/style.css" type="text/css" />
+</head>
+
+<body>
+<div id="wrapper">
+
+<div id="header">
+  <div id="top"><img id="pm" src="images/pm.jpg"/><span id="name">Páll Melsted</span></div>
+  <div id="menu">
+    <ul>
+      <li><a href="index.html">About</a></li>
+      <li><a href="research.html">Research</a></li>
+      <li><a href="teaching.html">Teaching</a></li>
+      <li><a href="software.html">Software</a></li>
+      <li><a href="https://scholar.google.is/citations?user=D4DMDcgAAAAJ&hl=en">Publications</a></li>
+   </ul>
+  </div>
+ <div style="clear:both"> </div>
+</div>
+
+<div id="main">
+ {{ content }}
+</div>
+
+
+
+<div id="footer">
+pmelsted@hi.is &mdash; {{ site.time | date: '%a %d %b %Y' }}
+</div>
+
+
+</div> <!-- end wrapper --> 
+
+</body>
+
+</html>
+
+
+
