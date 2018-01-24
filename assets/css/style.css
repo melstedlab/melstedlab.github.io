@@ -1,3 +1,8 @@
+---
+---
+
+@import "{{ site.theme }}";
+
 body {
     background-color: #fff;	
     margin: 0 30px 0 30px;
